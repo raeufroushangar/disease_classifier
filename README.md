@@ -4,7 +4,7 @@ Traning and validating k-nearest neighbors model to predict the disease state (a
 
 
 **Model Accuracy vs. KNN Number:**
-![AML_DiseaseSate_KNN-Classification_Trained_on_974_ProbSets_from_2761_Subjects-knn_number](https://user-images.githubusercontent.com/39611565/203697646-328fdded-1cd8-4209-91d2-4921c0351304.png)
+![AML_DiseaseSate_KNN-Classification_Trained_on_974_ProbSets_from_2761_Subjects-knn_number](https://user-images.githubusercontent.com/39611565/203698301-d5473cff-ab1b-4733-8407-a3db3f775b97.png)
 
 
 **ROC Curve:**
