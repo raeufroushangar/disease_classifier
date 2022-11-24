@@ -4,7 +4,7 @@ Traning and validating k-nearest neighbors model to predict the disease state (a
 
 
 **Confusion Matrix:**
-![AML_DiseaseSate_KNN-Classification_Trained_on_974_ProbSets_from_2761_Subjects-ROC_Curve](https://user-images.githubusercontent.com/39611565/203699204-7823a6f1-4b0d-452b-a74e-1fb6255155f2.png)
+![AML_DiseaseSate_KNN-Classification_Trained_on_974_ProbSets_from_2761_Subjects-Confusion_Matrix](https://user-images.githubusercontent.com/39611565/203699461-f1560bf7-fb81-46e3-8eff-b61cc110d251.png)
 
 
 **ROC Curve:**
