@@ -1,6 +1,6 @@
 # Description:
 
-Traning and validating k-nearest neighbors model to predict the disease state (aml vs. healthy) of 613 subjects from gene expression data. KNN-Model is trained on 974 differentially expressed probe sets (corresponding to 964 unique genes) from 2,761 aml patients and healthy subjects in scikit-learn. Model has 97.93 (+/- 0.03) traning/validation accuracy. The data, code, and supplementary materials can all be found here.
+Traning and validating k-nearest neighbors model to predict the disease state (aml vs. healthy) of 613 subjects from gene expression data. KNN-Model is trained on 974 differentially expressed probe sets (corresponding to 964 unique genes) from 2,761 aml patients and healthy subjects in scikit-learn. Model has 97.93 (+/- 0.03) traning/validation accuracy. The data, code, and supplementary materials can all be found here
 
 
 **Confusion Matrix:**\
